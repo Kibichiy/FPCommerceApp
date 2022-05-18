@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="login_title_margin">180dp</dimen>
+    <dimen name="logo_size">90dp</dimen>
+    <dimen name="large_logo_margin">70dp</dimen>
+    <dimen name="stroke_margin">3dp</dimen>
+    <dimen name="corner_radius">8dp</dimen>
+    <dimen name="edtx_padding">15dp</dimen>
+    <dimen name="edtx_margin">55dp</dimen>
+    <dimen name="extra_small_txt">17</dimen>
+    <dimen name="edtx_txtv_margin">7dp</dimen>
+    <dimen name="txtv_pass_padding">40dp</dimen>
+    <dimen name="button_margin">25dp</dimen>
+    <dimen name="clickable_txt_size">15sp</dimen>
+    <item name="guideline_ratio" type="dimen" format="float">0.35</item>
+</resources>

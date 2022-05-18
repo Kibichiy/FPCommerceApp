@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cl_toolbarBg">#FF6D00</color>
+    <color name="grey_txt">#5C5857</color>
+    <color name="clickable_txt">#071FA7</color>
+</resources>

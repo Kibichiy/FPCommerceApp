@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_pg_txt">LOGIN</string>
+    <string name="password_txtv_txt">Password</string>
+    <string name="login_btn_txt">LOGIN</string>
+    <string name="forgot_txt">FORGOT PASSWORD</string>
+    <string name="create_acnt_txt">I DON\'T HAVE AN ACCOUNT</string>
+    <string name="register_tb_text">REGISTER</string>
+    <string name="fullname_txt">Full Name</string>
+    <string name="login_acnt_txt">I HAVE AN ACCOUNT</string>
+</resources>
