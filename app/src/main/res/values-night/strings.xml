@@ -8,4 +8,7 @@
     <string name="register_tb_text">REGISTER</string>
     <string name="fullname_txt">Full Name</string>
     <string name="login_acnt_txt">I HAVE AN ACCOUNT</string>
+    <string name="register_btn_txt">REGISTER</string>
+    <string name="cart_txt">ADD TO CART</string>
+    <string name="add_cart">ADD TO CART</string>
 </resources>

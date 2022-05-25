@@ -3,6 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.fpcommerceapp">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -12,12 +14,25 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.FPCommerceApp"
+        android:usesCleartextTraffic="true"
         tools:targetApi="31">
         <activity
-            android:name=".HomeActivity"
+            android:name=".CartActivity"
             android:exported="false" />
         <activity
-            android:name=".view.MainActivity"
+            android:name=".view.homecategories.ui.DetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.homecategories.ui.SubcategoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.loginitems.RegistrationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.loginitems.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.homecategories.ui.HomeActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

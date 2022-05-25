@@ -10,4 +10,6 @@
     <color name="cl_toolbarBg">#FF6D00</color>
     <color name="grey_txt">#5C5857</color>
     <color name="clickable_txt">#071FA7</color>
+    <color name="card_bg_color">#FFFFFF</color>
+    <color name="cart_color">#0C4ED3</color>
 </resources>

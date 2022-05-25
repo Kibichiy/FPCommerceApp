@@ -5,11 +5,13 @@
     <string name="password_txtv_txt">Password</string>
     <string name="login_btn_txt">LOGIN</string>
     <string name="forgot_txt">FORGOT PASSWORD</string>
-    <string name="create_acnt_txt">I DON\'T HAVE AN ACCOUNT</string>
-    <!-- TODO: Remove or change this placeholder text -->
+    <string name="create_acnt_txt">DON\'T HAVE AN ACCOUNT</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="register_tb_text">REGISTER</string>
     <string name="fullname_txt">Full Name</string>
     <string name="mobile_txtv_txt">Mobile No.</string>
     <string name="login_acnt_txt">I HAVE AN ACCOUNT</string>
+    <string name="register_btn_txt">REGISTER</string>
+    <string name="cart_txt">ADD TO CART</string>
+    <string name="add_cart">ADD TO CART</string>
 </resources>

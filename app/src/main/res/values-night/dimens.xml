@@ -6,11 +6,33 @@
     <dimen name="stroke_margin">3dp</dimen>
     <dimen name="corner_radius">8dp</dimen>
     <dimen name="edtx_padding">15dp</dimen>
-    <dimen name="edtx_margin">55dp</dimen>
-    <dimen name="extra_small_txt">17</dimen>
+    <dimen name="edtx_margin">20dp</dimen>
+    <dimen name="extra_small_txt">17sp</dimen>
     <dimen name="edtx_txtv_margin">7dp</dimen>
     <dimen name="txtv_pass_padding">40dp</dimen>
     <dimen name="button_margin">25dp</dimen>
     <dimen name="clickable_txt_size">15sp</dimen>
+    <dimen name="grid_spacing">6dp</dimen>
+    <dimen name="small_padding">20dp</dimen>
+    <dimen name="card_dp_size">200dp</dimen>
+    <dimen name="card_text_size">22sp</dimen>
+    <dimen name="card_image_size">150dp</dimen>
+    <dimen name="input_text_size">15sp</dimen>
+    <dimen name="small_margin">5dp</dimen>
+    <dimen name="card_dp_big">250dp</dimen>
+    <dimen name="dp_20">20dp</dimen>
+    <dimen name="dp_description">280dp</dimen>
+    <dimen name="item_dp">5dp</dimen>
+    <dimen name="txt_20">20sp</dimen>
+    <dimen name="price_dp">15sp</dimen>
+    <dimen name="cart_dp">10dp</dimen>
+    <dimen name="cart_txt_size">17sp</dimen>
+    <dimen name="desc_text">17sp</dimen>
+    <dimen name="max_lines">3</dimen>
+    <dimen name="title_text">25sp</dimen>
+    <dimen name="no_dp">0dp</dimen>
+    <dimen name="imageView_dp">270dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="layout_height_dp">400dp</dimen>
     <item name="guideline_ratio" type="dimen" format="float">0.35</item>
 </resources>
